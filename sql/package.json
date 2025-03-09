@@ -1,0 +1,12 @@
+{
+  "defaultSchema": "olympics_analysis",
+  "assertionSchema": "assertions",
+  "description": "Dataform project for Olympics Analysis",
+  "config": {
+    "warehouse": "bigquery"
+  },
+  "dependencies": {
+    "@dataform/core": "3.0.0",
+    "rimraf": "^3.0.2"
+  }
+}
