@@ -31,6 +31,4 @@ Create insightful visualizations with **Looker Studio**
 │   ├── overview_page.png
 │   ├── performance_page.png
 │   ├── trends_page.png
-├── 📂 data
-│   └── (leave empty or add a sample file if allowed)
 ├── README.md
